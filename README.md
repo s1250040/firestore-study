@@ -1,4 +1,5 @@
-firestoreに入力フォームの内容を送る
+## firestoreの練習
+入力した内容をforestoreに追加する
 
 # test
 
